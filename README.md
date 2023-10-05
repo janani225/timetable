@@ -129,7 +129,8 @@ Execute the program
 # server output:
 ![image](https://github.com/janani225/timetable/assets/113497333/d9a23553-0605-4868-9b3c-86ccbaae9dd4)
 # Client output:
-![image](https://github.com/janani225/timetable/assets/113497333/e7ecf00c-f34d-4674-86af-9b43e57fc997)
+![image](https://github.com/janani225/timetable/assets/113497333/42fa4a15-2a4f-4894-bc34-5d6f738c5abe)
+
 
 # Result:
 Hence, a website is developed to display the timetable .
