@@ -129,7 +129,8 @@ Execute the program
 # server output:
 ![image](https://github.com/janani225/timetable/assets/113497333/d9a23553-0605-4868-9b3c-86ccbaae9dd4)
 # Client output:
-![image](https://github.com/janani225/timetable/assets/113497333/42fa4a15-2a4f-4894-bc34-5d6f738c5abe)
+![image](https://github.com/janani225/timetable/assets/113497333/bc9b9df9-833b-43e2-980c-83766c389b2a)
+
 
 
 # Result:
