@@ -126,10 +126,10 @@ Execute the program
 ```
 
 # OUPUT
-# server output:
 ![image](https://github.com/janani225/timetable/assets/113497333/d9a23553-0605-4868-9b3c-86ccbaae9dd4)
-# Client output:
-![image](https://github.com/janani225/timetable/assets/113497333/bc9b9df9-833b-43e2-980c-83766c389b2a)
+
+![WhatsApp Image 2023-10-31 at 15 11 23_f1c61e92](https://github.com/janani225/timetable/assets/113497333/2b8d3afe-9463-4866-8ab2-eef17dc2ea85)
+
 
 
 
